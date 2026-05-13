@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/lorisplante/Documents/GitHub/python-machine-learning/mlruns/423915164718285816/31e1e02787454608bf79bda0fb7f83a8/artifacts
+end_time: 1778657702424
+entry_point_name: ''
+experiment_id: '423915164718285816'
+lifecycle_stage: active
+run_id: 31e1e02787454608bf79bda0fb7f83a8
+run_name: HistGradientBoosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778657702412
+status: 3
+tags: []
+user_id: lorisplante

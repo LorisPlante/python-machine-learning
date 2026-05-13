@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/lorisplante/Documents/GitHub/python-machine-learning/mlruns/423915164718285816/ddc4e35df6b8465792cfebfc0a83c9f9/artifacts
+end_time: 1778657610126
+entry_point_name: ''
+experiment_id: '423915164718285816'
+lifecycle_stage: active
+run_id: ddc4e35df6b8465792cfebfc0a83c9f9
+run_name: logreg_baseline_with_FE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778657610119
+status: 3
+tags: []
+user_id: lorisplante

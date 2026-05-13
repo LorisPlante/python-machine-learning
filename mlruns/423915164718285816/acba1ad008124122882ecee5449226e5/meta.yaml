@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/lorisplante/Documents/GitHub/python-machine-learning/mlruns/423915164718285816/acba1ad008124122882ecee5449226e5/artifacts
+end_time: 1778657683656
+entry_point_name: ''
+experiment_id: '423915164718285816'
+lifecycle_stage: active
+run_id: acba1ad008124122882ecee5449226e5
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778657683645
+status: 3
+tags: []
+user_id: lorisplante

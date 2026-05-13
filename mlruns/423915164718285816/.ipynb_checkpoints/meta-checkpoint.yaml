@@ -1,0 +1,8 @@
+artifact_location: file:///Users/lorisplante/Documents/GitHub/python-machine-learning/mlruns/423915164718285816
+creation_time: 1778657610012
+experiment_id: '423915164718285816'
+last_update_time: 1778657610012
+lifecycle_stage: active
+name: churn-models-zoo
+trace_location: null
+workspace: default

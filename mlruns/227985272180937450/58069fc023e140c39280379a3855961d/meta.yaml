@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/lorisplante/Documents/GitHub/python-machine-learning/mlruns/227985272180937450/58069fc023e140c39280379a3855961d/artifacts
+end_time: 1778658009819
+entry_point_name: ''
+experiment_id: '227985272180937450'
+lifecycle_stage: active
+run_id: 58069fc023e140c39280379a3855961d
+run_name: logreg_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778658009816
+status: 4
+tags: []
+user_id: lorisplante

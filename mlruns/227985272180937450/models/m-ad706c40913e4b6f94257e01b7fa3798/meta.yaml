@@ -1,0 +1,10 @@
+artifact_location: file:///Users/lorisplante/Documents/GitHub/python-machine-learning/mlruns/227985272180937450/models/m-ad706c40913e4b6f94257e01b7fa3798/artifacts
+creation_timestamp: 1778658456076
+experiment_id: '227985272180937450'
+last_updated_timestamp: 1778658460830
+model_id: m-ad706c40913e4b6f94257e01b7fa3798
+model_type: null
+name: model
+source_run_id: ff9945bd886e4d52b60e52266c58b8f1
+status: 2
+status_message: null

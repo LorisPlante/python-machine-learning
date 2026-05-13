@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/lorisplante/Documents/GitHub/python-machine-learning/mlruns/423915164718285816/30a25b282c9a43a2a31a64c68712b345/artifacts
+end_time: 1778657681100
+entry_point_name: ''
+experiment_id: '423915164718285816'
+lifecycle_stage: active
+run_id: 30a25b282c9a43a2a31a64c68712b345
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778657681079
+status: 3
+tags: []
+user_id: lorisplante
